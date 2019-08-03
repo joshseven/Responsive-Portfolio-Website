@@ -5,6 +5,11 @@
     box-sizing: border-box
 }
 
+header{
+    padding: 1rem;
+   
+}
+
 html {
     font-size: 10px;
     font-family:  sans-serif;
@@ -19,7 +24,7 @@ body{
 }
 
 section{
-        padding:6rem;
+        padding:3rem;
 }
 
 a{  
@@ -65,7 +70,7 @@ img{
     bottom: -.5rem;
     left: 50%;
     transform: translateX(-50%);
-    background-color: rgba(255,255,255,.75);
+    background-color: white;
 }
 .section-heading h1::before{
     width:10rem;
@@ -74,10 +79,11 @@ img{
 }
 
 .section-heading h1::after{
-    width:1.5em;
-    height: 1.5rem;
+    width:1.1rem;
+    height: 1.2rem;
     border-radius: 100%;
-    bottom: 1rem;
+    bottom: -10px;
+   
 }
 
 .section-heading h6{
@@ -490,11 +496,8 @@ input[type="submit"]:hover{
 
 /*Start animations*/
 @keyframes pulse{
-    0%{
-        box-shadow: 0 0 0 0 rgba(253,87,191,.99)
-    }
+    0%{box-shadow: 0 0 0 0 rgba(253,87,191,.99)}
     70%{box-shadow: 0 0 0 2rem rgba(253,87,191,0)}
-
     100%{box-shadow: 0 0 0 0 rgba(253,87,191,0)}
 }
 /*End animations*/
