@@ -18,3 +18,9 @@ Need to continue working on.....
    
 - Customizing Pictures:
 - Spacing between sections:
+
+Completed:
+Updated Linkedin into project
+Fade in works
+Added responsive hamburger function
+scroll up button at the bottom of the page functions
