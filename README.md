@@ -16,6 +16,7 @@ Need to continue working on.....
    -Links to other social media (completed)
    -Link to resume download option
    - Customizing Pictures
+   - Need to test mobile version of website
 
 
 
@@ -23,4 +24,6 @@ Completed:
 Updated Linkedin into project
 Fade-in works
 Added responsive hamburger function
-scroll up button at the bottom of the page functions
+scroll up button at the bottom of the page functions work.
+
+
