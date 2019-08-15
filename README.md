@@ -17,7 +17,7 @@ Need to continue working on.....
    -Link to resume download option
    - Customizing Pictures
    - Need to test mobile version of website
-
+   -Change highlight color to not be purple and yellow (a bit to strong)
 
 
 Completed:
