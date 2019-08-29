@@ -18,6 +18,8 @@ Need to continue working on.....
    - Customizing Pictures
    - Need to test mobile version of website
    -Change highlight color to not be purple and yellow (a bit to strong)
+   - Update color
+   - Update pictures
 
 
 Completed:
